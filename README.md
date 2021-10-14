@@ -1,2 +1,2 @@
-# web-app-template
-cra based environment with self deploy configuration
+# web-app
+web-app development using `cra-template-pwa-typescript` and `gitpod` for self-deployment 
