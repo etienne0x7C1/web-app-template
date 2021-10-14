@@ -7,7 +7,7 @@ tasks:
         cp -r /workspace/module_repo/copyme/. /workspace/web-app-cra/
         mv /workspace/module_repo/ /workspace/web-app-cra/src/modules/
         cd /workspace/web-app-cra/
-        yarn add react-router-dom
+        yarn add react-router-dom @types/react-router-dom
     command: |
       cd /workspace/web-app-cra
       yarn run start

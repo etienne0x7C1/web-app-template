@@ -1,0 +1,3 @@
+[submodule "src/modules/module_repo"]
+	path = src/modules/module_repo
+	url = module_repo_url
