@@ -1,5 +1,5 @@
 import Apps from "../appRouting"
-import { MyApp } from "./my-app/MyApp.tsx"
+import { MyApp } from "./my-app/MyApp"
 
 /**
  * Module Apps here
